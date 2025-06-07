@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **FULL STACK JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yadav-khushi293/wine_shope_website.git](https://github.com/yadav-khushi293/wine_shope_website.git)
+- 👨‍💻 All of my projects are available at [https://github.com/yadav-khushi293)
 
 - 📫 How to reach me **yadavkhushi293@gmail.com**
 
