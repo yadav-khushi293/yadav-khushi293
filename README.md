@@ -1,7 +1,7 @@
-
+<img align="right" alt="coding"  src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
 <h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-khushi293&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-khushi293" /> </p>
