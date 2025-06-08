@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-khushi293&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-khushi293" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **FULL STACK JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yadav-khushi293)
+- 👨‍💻 All of my projects are available at https://github.com/yadav-khushi293
 
 - 📫 How to reach me **yadavkhushi293@gmail.com**
 
@@ -25,6 +25,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav-khushi293&show_icons=true&locale=en&layout=compact" alt="yadav-khushi293" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-khushi293&show_icons=true&locale=en" alt="yadav-khushi293" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=yadav-khushi293&show_icons=true&locale=en" alt="yadav-khushi293" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-khushi293&" alt="yadav-khushi293" /></p>
