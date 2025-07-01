@@ -30,11 +30,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-khushi293&show_icons=true&locale=en" alt="yadav-khushi293" />
 </p>
 <p align="center">
-  <a href="https://github.com/hetuk2005/github-readme-streak-stats">
+  <a href="https://github.com/yadav-khushi293/github-readme-streak-stats">
     <img 
       title="🔥 Get streak stats for your profile at git.io/streak-stats" 
       alt="hetuk2005's streak" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hetuk2005&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-khushi293&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"
     />
   </a>
 </p>
